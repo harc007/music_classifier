@@ -1,3 +1,0 @@
-lebrosa
-ffmpeg-python
-sudo apt-get install libav-tools
